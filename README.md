@@ -1,1 +1,1 @@
-# libft 1337 project 
+the Project consist of coding a library in c
